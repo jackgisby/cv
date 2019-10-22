@@ -1,5 +1,4 @@
-% Original Template Author & Copyright:
-% Copyright (C) 2010 by Trey Hunner
+% Original Template Author: Copyright (C) 2010 by Trey Hunner
 
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 
