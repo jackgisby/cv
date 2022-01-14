@@ -13,6 +13,7 @@
     allcolors=teal
     }
 \usepackage{xcolor}
+\usepackage{fontawesome}
 
 \pagestyle{empty} % Suppress page numbers
 
