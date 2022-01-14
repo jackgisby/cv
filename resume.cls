@@ -7,6 +7,12 @@
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
 \usepackage{ifthen} % Required for ifthenelse statements
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    allcolors=teal
+    }
+\usepackage{xcolor}
 
 \pagestyle{empty} % Suppress page numbers
 
