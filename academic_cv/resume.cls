@@ -14,6 +14,7 @@
     }
 \usepackage{xcolor}
 \usepackage{fontawesome}
+\usepackage{orcidlink}
 
 \pagestyle{empty} % Suppress page numbers
 
