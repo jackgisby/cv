@@ -22,6 +22,7 @@
 \usepackage{anyfontsize}
 \usepackage{xcolor}
 \usepackage{tabularx}
+\usepackage{orcidlink}
 
 %-------------------------------------------------- SETTINGS HERE --------------------------------------------------
 % Header settings
@@ -59,12 +60,12 @@
 %------------------------------------------------------------------------------------------------------------------- 
 
 % Defines to make listing easier
-\def \linkedin {\linkedinicon \hspace{3pt}\href{\linkedinlink}{\linkedintext}}
+% \def \linkedin {\linkedinicon \hspace{3pt}\href{\linkedinlink}{\linkedintext}}
 \def \phone {\phoneicon \hspace{3pt}{ \phonetext}}
 \def \email {\emailicon \hspace{3pt}\href{\emaillink}{\emailtext}}
 \def \github {\githubicon \hspace{3pt}\href{\githublink}{\githubtext}}
 \def \website {\websiteicon \hspace{3pt}\href{\websitelink}{\websitetext}}
-\def \orcid {\orcidicon \hspace{3pt}\href{\orcidlink}{\orcidtext}}
+\def \orcid {\orcidlink{https://orcid.org/0000-0003-0511-8123} \hspace{0.3mm} \href{https://orcid.org/0000-0003-0511-8123}{orcid.org/0000-0003-0511-8123}}
 
 % Adjust margins
 \addtolength{\oddsidemargin}{-0.55in}
