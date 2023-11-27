@@ -1,5 +1,8 @@
 % Original Template Author: Copyright (C) 2010 by Trey Hunner
 
+\input{glyphtounicode}
+\pdfgentounicode=1
+
 \ProvidesClass{resume}[2010/07/10 v0.9 Resume class]
 
 \LoadClass[11pt,letterpaper]{article} % Font size and paper type
